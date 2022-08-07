@@ -41,6 +41,6 @@
 ](https://blog.csdn.net/pushiqiang/article/details/95726137)
 # 延伸文章
 
-- 
-- 
-- 
+- [API网关那些儿](http://yunlzheng.github.io/2017/03/14/the-things-about-api-gateway/)
+- [接口调度者——API 网关](https://zhuanlan.zhihu.com/p/215901217)
+- [微服务网关选型：5种主流 API 网关，哪个最香！](https://mp.weixin.qq.com/s/f2hepLraaqUgRKqq9ZKKsQ)
